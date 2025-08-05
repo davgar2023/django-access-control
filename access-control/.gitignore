@@ -1,0 +1,32 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Editor & system files
+.vscode/
+.idea/
+.DS_Store
+
+# Environment & dotenv
+.env
+*.env
+
+# Django database and logs
+*.sqlite3
+*.log
+
+# Django media/static
+media/
+staticfiles/
+
+# Docker
+*.pid
+*.sock
+
+# Migrations (puedes decidir si las subes o no)
+**/migrations/
+!**/migrations/__init__.py
+.vscode/
+.idea/
+.DS_Store
+.env.test
