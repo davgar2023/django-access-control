@@ -1,12 +1,14 @@
 # 🚪 Access Control API
 
+[![GitHub stars](https://img.shields.io/github/stars/davgar2023/django-access-control?style=social)](https://github.com/davgar2023/django-access-control/stargazers) [![GitHub issues](https://img.shields.io/github/issues/davgar2023/django-access-control)](https://github.com/davgar2023/django-access-control/issues) [![GitHub release](https://img.shields.io/github/v/release/davgar2023/django-access-control?include_prereleases)](https://github.com/davgar2023/django-access-control/releases) [![License](https://img.shields.io/github/license/davgar2023/django-access-control)](https://github.com/davgar2023/django-access-control/blob/main/LICENSE) ![Python](https://img.shields.io/badge/python-3.12-blue)
+
 RESTful API to manage access points and register people entry events. Built with Django and Django REST Framework, PostgreSQL, and Docker.
 
 ---
 
 ## 🔧 What it does
 
-This service provides an API to register physical access points (doors, gates, turnstiles, etc.) and record access events when people enter or exit. It includes JWT-based authentication, admin UI for managing records, and Docker-based deployment for local development.
+This service provides an API to register physical access points (doors, gates, turnstiles, etc.) and record access events when people enter or exit. It includes JWT-based authentication, admin UI f[...]
 
 Main features:
 - Register and manage access points (create, read, update, delete).
